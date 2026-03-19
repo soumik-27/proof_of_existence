@@ -1,4 +1,5 @@
 # 📜 Proof of Existence – Soroban Smart Contract
+<img width="942" height="463" alt="Screenshot 2026-03-19 133726" src="https://github.com/user-attachments/assets/094696fc-4e93-4365-874c-543e7a112c9c" />
 
 ## 🚀 Project Description
 
