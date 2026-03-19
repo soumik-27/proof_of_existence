@@ -56,7 +56,8 @@ Later:
 ---
 
 ## 🔗 Deployed Smart Contract Link
-https://lab.stellar.org/r/testnet/contract/CDRIZ4CBGE7QPVTQ7X4M3K36YCFHPO6BYQAHVNALZJMKBXWEEQ25FVBX
+🔗 https://stellar.expert/explorer/testnet/tx/1b6d0569f9f62600d33c52b890ff59d49cff1ea21b29fa21c7f335b89739ddd0
+🔗 https://lab.stellar.org/r/testnet/contract/CDRIZ4CBGE7QPVTQ7X4M3K36YCFHPO6BYQAHVNALZJMKBXWEEQ25FVBX
 
 ---
 
